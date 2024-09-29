@@ -1,31 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ccea6bb-8329-46e6-aa1e-b6964f1dfa7f" name="Changes" comment="" />
+    <list default="true" id="8ccea6bb-8329-46e6-aa1e-b6964f1dfa7f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeacherView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeacherView1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherView1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserController/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserController/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserController/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserController/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserView.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Arnellia&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Arnellia/OOP4.git&quot;,
+    &quot;accountId&quot;: &quot;41eb7a2a-44ab-4523-a1bd-eabd4d1bdd60&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2m7fksF7LEQlrYH7vhwQQvGy1zo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="UserController" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="OOP4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="OOP4" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

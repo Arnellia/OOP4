@@ -1,2 +1,5 @@
-package UserController;public interface UserController {
+package UserController;
+
+public interface UserController<T extends User> {
+    void create(String surname, String firstname, String patronymic);
 }
